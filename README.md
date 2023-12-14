@@ -1,6 +1,6 @@
-### Salary Predictor
+## Salary Predictor
 
-## Objective
+### Objective
 To build and deploy a web application where person's experience, interview score and test score is entered into a web-based form which then outputs a predicted salary amount.
 
 ### Software And Tools Requirements
